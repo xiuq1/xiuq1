@@ -94,3 +94,9 @@ lol|200|3
 
 [百度搜索](http://www.baidu.com)
 
+## 文章插入图片
+
+**如果插入的图片是本地资源，无法在github上显示，需要将本地图片上传并生成网络图片url地址**
+！[wall](E://wall.jpg "本地壁纸")
+！[wall](https://seikim.com/i/2022/03/17/p4m0ft.jpg "网络壁纸")
+
