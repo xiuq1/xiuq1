@@ -88,4 +88,9 @@ lol|200|3
   	 print("this message is from test");
 ```
 
+## 超链接
+
+[Githup](http://githup.com "跳转到githup")
+
+[百度搜索](http://www.baidu.com)
 
