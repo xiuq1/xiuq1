@@ -66,3 +66,26 @@ lol|200|3
   }
 ```
 
+```bash
+  sudo su
+  echo "输出字符串"
+  cd "path"
+```
+
+```cpp
+  #include <iostream>
+  using namespace std;
+
+  int main(void)
+  {
+  	cout<< "输出字符串" <<endl;
+  }
+```
+
+```python
+  import os
+  def test():
+  	 print("this message is from test");
+```
+
+
