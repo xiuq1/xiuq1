@@ -52,4 +52,17 @@ csgo|198|1
 pubg|98|2
 lol|200|3
 
+## 插入代码片段
+
+```c
+  #include <stdio.h>
+  #include <stdlib.h>
+  #include <string.h>
+  int main(void)
+  {
+  	printf("testing code...\n");
+	return 0;
+
+  }
+```
 
